@@ -1,0 +1,10 @@
+# Ignore React junk
+frontend/node_modules/
+frontend/build/
+.DS_Store
+
+# Ignore Python junk
+__pycache__/
+*.pyc
+
+# We are NOT ignoring .pth files because you want to upload them.
